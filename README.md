@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel your shadow slipping through the neon glow
+> You got that rhythm making every second slow
+> I pull you closer 'cause you're all I wanna know
+> We own the city when we let our secrets show
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
