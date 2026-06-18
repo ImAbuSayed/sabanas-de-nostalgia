@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas de nostalgia
+
+This log tracks the cryptographic history and versioning for the song **Sábanas de nostalgia** (sabanas-de-nostalgia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:21:32.427289 | `v1` | `636ae3b09a291789b17f2ca60e3ad737b64696f5433d7f55d05332bf607c9d52` | `6a0c4b750bf9c20fedea8a9aa1a0caedbb2285a907c3f7aa825d49e8a92b8214` | `2026-06-18_sabanas-de-nostalgia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
